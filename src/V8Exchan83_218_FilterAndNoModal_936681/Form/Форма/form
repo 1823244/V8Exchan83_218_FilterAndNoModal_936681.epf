@@ -7,7 +7,7 @@
 {09ccdc77-ea1a-4a6d-ab1c-3435eada2433,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -32,30 +32,30 @@
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},26,0,1,
+{1,0},0,0,100,0},25,0,1,
 {0,4,1},1,
 {0,2,2},2,
 {0,2,3},
 {0,4,3},0,0,
-{8,1,
+{7,1,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},0,1,
+{0},"",-1,-1,1,0,""},100,0,0},0,1,
 {1,1,
 {4,
 {1,1,
 {"ru","Страница1"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"Страница1",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"Страница1",1,
 {3,4,
 {0}
 },
@@ -70,14 +70,14 @@
 {2,528,0,1,4,0,0,6,0},0,4294967295,5,64,0,
 {3,4,
 {0}
-},0,0,57,0,0},
+},0,0,57,0},
 {0}
 },
 {2,
 {e69bf21d-97b2-4f37-86db-675aea9ec2cb,2,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -102,22 +102,64 @@
 },
 {3,0,
 {0},4,1,0,00000000-0000-0000-0000-000000000000},
-{1,0},0,0,100,0,0},9,2,0,0,0,1,
+{1,0},0,0,100,0},9,2,0,0,0,1,
 {5,1116888b-5250-42a4-a1a4-fb27fe5c6e43,107,1,8,
-{6,b6aefd09-5ec6-4fd9-8e32-f50a6e6c1ac1,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{6,9ad5912e-6f9f-4790-ab01-a3c5fdc02f13,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
 {1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,244676b9-42d6-48f1-95f2-a486f11b1374,1,fbe38877-b914-4fd5-8540-07dde06ba2e1,
+{6,2f294b4a-6fc8-407e-92cd-096a106c7ea4,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"ДействияФормыНастройки",
+{1,"ДействияФормыНастройки",
+{1,1,
+{"ru","Настройки"}
+},
+{1,1,
+{"ru","Настройки"}
+},
+{1,1,
+{"ru","Настройки"}
+},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{0,0,0}
+}
+},1,
+{4,3,
+{0},"",14,14,1,
+{
+{#base64:Qk06AwAAAAAAADoAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAADOZzDMzZv///////////////////////////////////5mZmZmZ
+mZmZmf///////zNmmTNmmTMzZv///////////////////////////5mZmczMzGZm
+ZpmZmf///////zOZzDNmmTNmmTMzZv///////////////////5mZmczMzP///8zM
+zJmZmf///////////zOZzDNmmTNmmTMzZv///////////5mZmczMzP///8zMzJmZ
+mf///////////////////zOZzDNmmTNmmTMzZv///5mZmczMzP///8zMzJmZmf//
+/////////////////////////zOZzDNmmTNmmTMzZszMzP///8zMzJmZmf//////
+/////////////////////////////zOZzDNmmTNmmTMzZszMzJmZmf//////////
+/////////////////////////////5mZmTOZzDNmmTNmmTMzZv//////////////
+/xoaGjMzM////////////4aGhpmZmbu7u4aGhjOZzDNmmTNmmTMzZv///////4aG
+hoaGhmZmZjMzM////4aGhru7u7u7u4aGhoaGhoaGhjOZzDNmmTNmmTMzZkNDQxoa
+GpmZmWZmZmZmZoaGhru7u2ZmZkNDQ7u7u4aGhpmZmZmZmTOZzDNmmWZmZpmZmWZm
+ZpmZmczMzIaGhmZmZru7u8zMzMzMzLu7u0NDQ0NDQ////////0NDQ5mZmZmZmZmZ
+mWZmZmZmZv///2ZmZru7u////0NDQ8zMzGZmZv///////4aGhoaGhszMzJmZmZmZ
+mWZmZpmZmf///4aGhszMzP///0NDQ////4aGhv///4aGhmZmZmZmZpmZmczMzIaG
+hjNmmTMzZv///////4aGhuTk5GZmZuTk5IaGhv///4aGhpmZmWZmZmZmZmZmZjOZ
+zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
+/////////////w==}
+},0,""}
+},
+{6,976f436f-64b6-4a23-8e02-d44b2316ed4b,1,fbe38877-b914-4fd5-8540-07dde06ba2e1,
 {6,4294967295,00000000-0000-0000-0000-000000000000,300,
 {1,99,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0},0,1},0},
-{6,92f7493b-c058-4fed-817d-d360f26bbf54,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{6,4a9297cc-678b-4d63-a898-e2ce6192b470,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
 {1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,9ea972f8-f4b1-45f9-b753-4a94ee8ef151,1,fbe38877-b914-4fd5-8540-07dde06ba2e1,
+{6,53885b2f-da9b-4d65-b171-bfc7d96f095f,1,fbe38877-b914-4fd5-8540-07dde06ba2e1,
 {6,4294967295,00000000-0000-0000-0000-000000000000,144,
 {1,99,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,1},0,1},0},
-{6,ecb7bf04-6234-4f98-b4a3-e7d59ce7b84b,1,fbe38877-b914-4fd5-8540-07dde06ba2e1,
+{6,8e1cdb11-a203-423c-b045-e784f3145f56,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
+{6,8cd263c4-23b5-488c-a82b-8f3c9c045771,1,fbe38877-b914-4fd5-8540-07dde06ba2e1,
 {6,4294967295,00000000-0000-0000-0000-000000000000,143,
 {1,99,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,1},0,1},0},
-{6,b7237326-4a60-468e-a883-461cc4d23e70,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,f799188a-8057-43ba-8029-bc0d90e74d28,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"ДействияФормыВыполнить",
 {1,"ДействияФормыВыполнить",
 {1,1,
@@ -162,72 +204,30 @@ AAAAAAAA////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////
 ////////}
 },0,""}
-},
-{6,acc992c6-63a1-4058-abb0-c6717c0b6d34,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
-{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,48d19067-d980-4b39-988b-00fdd92f1524,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"ДействияФормыНастройки",
-{1,"ДействияФормыНастройки",
-{1,1,
-{"ru","Настройки"}
-},
-{1,1,
-{"ru","Настройки"}
-},
-{1,1,
-{"ru","Настройки"}
-},
-{4,0,
-{0},"",-1,-1,1,0,""},
-{0,0,0}
-}
 },1,
-{4,3,
-{0},"",14,14,1,
-{
-{#base64:Qk06AwAAAAAAADoAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAADOZzDMzZv///////////////////////////////////5mZmZmZ
-mZmZmf///////zNmmTNmmTMzZv///////////////////////////5mZmczMzGZm
-ZpmZmf///////zOZzDNmmTNmmTMzZv///////////////////5mZmczMzP///8zM
-zJmZmf///////////zOZzDNmmTNmmTMzZv///////////5mZmczMzP///8zMzJmZ
-mf///////////////////zOZzDNmmTNmmTMzZv///5mZmczMzP///8zMzJmZmf//
-/////////////////////////zOZzDNmmTNmmTMzZszMzP///8zMzJmZmf//////
-/////////////////////////////zOZzDNmmTNmmTMzZszMzJmZmf//////////
-/////////////////////////////5mZmTOZzDNmmTNmmTMzZv//////////////
-/xoaGjMzM////////////4aGhpmZmbu7u4aGhjOZzDNmmTNmmTMzZv///////4aG
-hoaGhmZmZjMzM////4aGhru7u7u7u4aGhoaGhoaGhjOZzDNmmTNmmTMzZkNDQxoa
-GpmZmWZmZmZmZoaGhru7u2ZmZkNDQ7u7u4aGhpmZmZmZmTOZzDNmmWZmZpmZmWZm
-ZpmZmczMzIaGhmZmZru7u8zMzMzMzLu7u0NDQ0NDQ////////0NDQ5mZmZmZmZmZ
-mWZmZmZmZv///2ZmZru7u////0NDQ8zMzGZmZv///////4aGhoaGhszMzJmZmZmZ
-mWZmZpmZmf///4aGhszMzP///0NDQ////4aGhv///4aGhmZmZmZmZpmZmczMzIaG
-hjNmmTMzZv///////4aGhuTk5GZmZuTk5IaGhv///4aGhpmZmWZmZmZmZmZmZjOZ
-zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
-/////////////w==}
-},0,""}
-},1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,8,244676b9-42d6-48f1-95f2-a486f11b1374,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,8,976f436f-64b6-4a23-8e02-d44b2316ed4b,
 {8,"Справка",0,1,
 {1,1,
 {"#","Справка"}
-},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,105,1e2,0,0,1,0,0,0,0},92f7493b-c058-4fed-817d-d360f26bbf54,
+},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,105,1e2,0,0,1,0,0,0,0},4a9297cc-678b-4d63-a898-e2ce6192b470,
 {8,"Разделитель",0,1,
-{1,0},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,106,1e2,2,0,1,0,0,0,0},9ea972f8-f4b1-45f9-b753-4a94ee8ef151,
+{1,0},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,106,1e2,2,0,1,0,0,0,0},53885b2f-da9b-4d65-b171-bfc7d96f095f,
 {8,"ВосстановитьЗначения___",0,1,
 {1,1,
 {"#","Восстановить значения"}
-},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,104,1e2,0,0,1,0,0,0,0},ecb7bf04-6234-4f98-b4a3-e7d59ce7b84b,
+},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,104,1e2,0,0,1,0,0,0,0},8cd263c4-23b5-488c-a82b-8f3c9c045771,
 {8,"СохранитьЗначения___",0,1,
 {1,1,
 {"#","Сохранить значения"}
-},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,103,1e2,0,0,1,0,0,0,0},acc992c6-63a1-4058-abb0-c6717c0b6d34,
+},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,103,1e2,0,0,1,0,0,0,0},9ad5912e-6f9f-4790-ab01-a3c5fdc02f13,
 {8,"Разделитель5",0,1,
-{1,0},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,100,1e2,2,0,1,0,0,0,0},b7237326-4a60-468e-a883-461cc4d23e70,
+{1,0},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,100,1e2,2,0,1,0,0,0,0},f799188a-8057-43ba-8029-bc0d90e74d28,
 {8,"Выполнить",0,1,
 {1,1,
 {"ru","Выполнить"}
-},1,1116888b-5250-42a4-a1a4-fb27fe5c6e43,99,1e2,0,3,1,0,0,0,0},b6aefd09-5ec6-4fd9-8e32-f50a6e6c1ac1,
+},1,1116888b-5250-42a4-a1a4-fb27fe5c6e43,99,1e2,0,3,1,0,0,0,0},8e1cdb11-a203-423c-b045-e784f3145f56,
 {8,"Разделитель1",0,1,
-{1,0},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,107,1e2,2,0,1,0,0,0,0},48d19067-d980-4b39-988b-00fdd92f1524,
+{1,0},0,1116888b-5250-42a4-a1a4-fb27fe5c6e43,107,1e2,2,0,1,0,0,0,0},2f294b4a-6fc8-407e-92cd-096a106c7ea4,
 {8,"Настройки",0,1,
 {1,1,
 {"ru","Настройки"}
@@ -236,7 +236,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {0}
 }
 }
-},b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,637b061f-641b-49c5-afa3-482779f62cc9,99,0,0}
+},b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,14c18312-586b-4150-b5ec-c1cf4bd67188,99,0,0}
 },
 {8,0,0,632,25,1,
 {0,
@@ -270,7 +270,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {09ccdc77-ea1a-4a6d-ab1c-3435eada2433,4,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -295,7 +295,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},26,0,30,
+{1,0},0,0,100,0},25,0,30,
 {0,15,1},
 {0,35,0},
 {0,35,1},
@@ -340,25 +340,25 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {0,134,3},
 {0,137,3},
 {0,140,3},0,0,
-{8,1,
+{7,1,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},1,1,
+{0},"",-1,-1,1,0,""},100,0,0},1,1,
 {1,4,
 {4,
 {1,1,
 {"ru","Выгрузка данных"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"Выгрузка",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"Выгрузка",1,
 {3,4,
 {0}
 },
@@ -370,13 +370,13 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {1,1,
 {"ru","Загрузка данных"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"Загрузка",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"Загрузка",1,
 {3,4,
 {0}
 },
@@ -388,13 +388,13 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {1,1,
 {"ru","Дополнительные настройки"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"НастройкиОбменаДанными",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"НастройкиОбменаДанными",1,
 {3,4,
 {0}
 },
@@ -406,13 +406,13 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {1,1,
 {"ru","Удаление данных"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"НастройкаУдалениеДанных",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"НастройкаУдалениеДанных",1,
 {3,4,
 {0}
 },
@@ -439,7 +439,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {2,470,0,1,4,3,0,7,0},0,4294967295,4294967295,4294967295,4294967295,5,64,0,
 {3,4,
 {0}
-},0,0,57,0,0},
+},0,0,57,0},
 {1,
 {0,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"ГлавнаяПанельФормыПриСменеСтраницы",
@@ -491,7 +491,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,7,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -516,19 +516,19 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Имя файла правил:"}
 },0,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,6,106,25,1,
@@ -568,7 +568,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -595,7 +595,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {-18},0,0,0},
 {1,1,
 {"ru","Полное имя файла правил обмена (по которым будет произведена выгрузка)"}
-},0,0,100,0,0},30,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,
+},0,0,100,1},30,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -603,7 +603,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},1,1,0,0,0,0,0,16777215,2}
+{1,0},1,1,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -702,7 +702,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {09ccdc77-ea1a-4a6d-ab1c-3435eada2433,15,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -727,7 +727,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},26,0,6,
+{1,0},0,0,100,0},25,0,6,
 {0,16,1},
 {0,18,1},
 {0,31,1},
@@ -743,25 +743,25 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {0,90,3},
 {0,138,3},
 {0,143,3},0,0,
-{8,1,
+{7,1,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},1,1,
+{0},"",-1,-1,1,0,""},100,0,0},1,1,
 {1,3,
 {4,
 {1,1,
 {"ru","Выгружаемые данные"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"Страница1",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"Страница1",1,
 {3,4,
 {0}
 },
@@ -773,13 +773,13 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {1,1,
 {"ru","Параметры выгрузки"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"Параметры",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"Параметры",1,
 {3,4,
 {0}
 },
@@ -791,13 +791,13 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {1,1,
 {"ru","Комментарий"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"Страница2",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"Страница2",1,
 {3,4,
 {0}
 },
@@ -820,7 +820,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {2,269,0,1,4,1,0,6,0},0,4294967295,4294967295,4294967295,5,64,0,
 {3,4,
 {0}
-},0,0,57,0,0},
+},0,0,57,0},
 {0}
 },
 {8,6,150,610,445,1,
@@ -858,7 +858,7 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {"#",e603c0f2-92fb-4d47-8f38-a44a381cf235}
 },
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -883,8 +883,8 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 },
 {3,1,
 {-18},0,0,0},
-{1,0},0,0,100,2,0},
-{19,100802093,
+{1,0},0,0,100,2},
+{18,100802093,
 {3,3,
 {-1}
 },
@@ -953,12 +953,12 @@ zDNmmf///////////////4aGhmZmZoaGhv///////4aGhszMzIaGhv//////////
 {"S"}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVFLbgMhDK2yjJQrZMEaJNswA75FpKgHmA9ZdlFl
-F3GyLnqkXqEYp5PJVC0g2c/2w89w3L209fXxeWN72N/Mabhe8/ubaeBsymFfxNWD
-vUVB3gYx8JPd4mi9hVqKAKU6rcKLcUR/cX5jZcRtgPARAaVIq+qH5JEmYEddvLgw
-EruREjhKYZ4T58uEuRFrsegCESi2WA+KLaz2GgXtZV5NWawxT0U1HBZFNedQjuSN
-kv7JLjfc9axFrgT1MUbCzi6v2L6Dh9gHP5NDzuxCl8mlxL7ODePEyN3AUftvJwCd
-oT36/cbWFFWMSijf},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVFLbgMhDK26jJQbdMUaJNswAd+iUtQDzIcsu6iy
+izhZFjlSrlCMk+lkohSQ7Gf74Wf4eH9r63q+nNhuNyfz2R+P+efbNLA3Zbsp4urB
+zqIgb4MYuGfXOFpvoZYiQKlOq/BiHNErzjNWRlwHCP8ioBRpVf2QPNII7KiLBxcG
+YjdQAkcpTFPifBgxN2ItFl0gAi0W60GRhcVeoqCdzJcpszXmoaiGw6yn5hzKkbxR
+0j/Z+YbmPEpcCNrFGEn+4P4A7TO4j7vgJ3LImV3oMrmU2NepYRgZues5av/1BKAz
+tCe/3diaoopRCeUX},0},0,0,0},
 {-1},
 {-1},
 {-1}
@@ -1006,15 +1006,15 @@ oT36/cbWFFWMSijf},0},0,0,0},
 {"#",0a52f9de-73ea-4507-81e8-66217bead73a}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcN7VM7TgMxEKWgipQ7rExrS/6t7dyChgNssktJEYUq
-WikIiYaOigYQ4QIhKGJFgFzBexKuwNjeD1l+HRVrrz3vzYzfyJ/57o7/3tab6QD3
-e1O0n0wm2fgIebCHME1ifjhIM6JFlhAZU00MywxRijM9zJJUiyTv93IXHzpTmDkk
-sHQTrb1drLHAFEIZpTkYPkK4iXD+Xc5nHDJ0l+CsZXw1hBmnAs2zDNMAQT2QggZc
-jewDCk2GItEBypsZoa0goKso6n2Eue78KCT94G1W+KLItjGlteYsxs0W1aEwcCa1
-NEJJjTOmBnw04kTReAjHJmJiZJoSbqSkXBgt1SjsDrJzu7D3dm2L8gysm3IG49IW
-wFyU5/ahnJWn9tE+AXNbngCzBnthr+C/A34F+Bryn8F6qfILewmewLi/sAUKVf6t
-mt8VND5GXd3IblrhyC63lSMQbqQjpxN518rFvrbqYZUigkW6+vXp/NfQ++3iN1ce
-QptePavmEeTv},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcN7VM5TgMxFKWgipQ7jExrS97Gdm5BwwEmmaGkiEIV
+jRSERENHRcN+gRAUMSJAruA5CVfg256FDFtHxXh97//v98fL9faW/95W6+kA93tT
+tJtMJtn4AHmwgzBNYr4/SDOiRZYQGVNNDMsMUYozPcySVIsk7/dy5x8qizFzSGDp
+Blpbu1hjgSm4MkpzmHgP4QbC+Xcxn3GI0F2Cs5bx2RBmnAoUzzJMAwR1zHIsaEBV
+zz6gUGRIEe2hvBkR2nACuvKi3kaYq86OQtAP1maFL1JsC1Naa+42uP672hU6zqSW
+RiipccbUgI9GnCgaD+HQREyMTFPCjZSUC6OlGoW9QfbWzu29XdmiPIHZVTmDfmEL
+YM7KU/tQzspj+2ifgLkpj4BZwXxuL6DdAb8EfAnxzzB7qeILew6WwLhW2AKFLP9W
+ze8KGh+irm5k161wZBebyhEIN9KR04m8ael8X1v1sEoRwSJd/fp0/nPo/XbxmysP
+rk2tnlXzCPJ3},0},0,0,0},
 {-1},
 {-1},
 {-1}
@@ -1137,7 +1137,7 @@ QptePavmEeTv},0},0,0,0},
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -1164,7 +1164,7 @@ QptePavmEeTv},0},0,0,0},
 {-18},0,0,0},
 {1,1,
 {"ru","Комментарий"}
-},0,0,100,0,0},30,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,1,0,
 {4,0,
@@ -1172,7 +1172,7 @@ QptePavmEeTv},0},0,0,0},
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -1214,7 +1214,7 @@ QptePavmEeTv},0},0,0,0},
 {e69bf21d-97b2-4f37-86db-675aea9ec2cb,43,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -1239,9 +1239,68 @@ QptePavmEeTv},0},0,0,0},
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},9,2,0,0,1,1,
+{1,0},0,0,100,0},9,2,0,0,1,1,
 {5,99085706-5a9f-48c2-a12d-1d0b82d12316,28,1,8,
-{6,4e3f39ce-c3c7-436b-8ca5-902a8a00425b,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,0f8d73f0-072e-4e67-93f6-9c02471c8c6d,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
+{6,c32b84d5-fb5d-4973-ab64-18f421658669,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанельТаблицаПравилВыгрузкиУстановитьПометки",
+{1,"КоманднаяПанельТаблицаПравилВыгрузкиУстановитьПометки",
+{1,1,
+{"ru","Установить пометки"}
+},
+{1,1,
+{"ru","Установить пометки"}
+},
+{1,1,
+{"ru","Установить пометки"}
+},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{0,0,0}
+}
+},3,
+{1,1,
+{"ru","Установить пометки для правил"}
+},
+{4,1,
+{-10},"",-1,-1,1,0,""}
+},
+{6,d3a3bcc2-3c51-4680-be4b-7122abbe522a,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
+{6,10f7a78f-1d3e-4cd6-933a-fa4d2b9f11a3,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанельТаблицаПравилВыгрузкиСнятьПометки",
+{1,"КоманднаяПанельТаблицаПравилВыгрузкиСнятьПометки",
+{1,1,
+{"ru","Снять пометки"}
+},
+{1,1,
+{"ru","Снять пометки"}
+},
+{1,1,
+{"ru","Снять пометки"}
+},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{0,0,0}
+}
+},3,
+{1,1,
+{"ru","Снять пометки для правил"}
+},
+{4,1,
+{-11},"",-1,-1,1,0,""}
+},
+{6,4bbddd70-713f-4914-a533-bb7d43d80f50,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,99085706-5a9f-48c2-a12d-1d0b82d12316,24},6,
+{1,1,
+{"ru","Узлы обмена"}
+},
+{1,1,
+{"ru","Узлы обмена"}
+}
+},
+{6,2c9a89b7-418b-4688-8f46-886ddee934b2,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанельТаблицаПравилВыгрузкиОчиститьУзлыОбмена",
 {1,"КоманднаяПанельТаблицаПравилВыгрузкиОчиститьУзлыОбмена",
 {1,1,
@@ -1265,16 +1324,7 @@ QptePavmEeTv},0},0,0,0},
 {"ru","Очистить узлы обмена"}
 }
 },
-{6,a14f9ad3-131d-45e0-bf4a-6117205a19d4,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
-{1,99085706-5a9f-48c2-a12d-1d0b82d12316,24},6,
-{1,1,
-{"ru","Узлы обмена"}
-},
-{1,1,
-{"ru","Узлы обмена"}
-}
-},
-{6,ac282c8b-e2ce-47a8-87cc-d5b4ea075797,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,14522606-87f5-4860-aeed-efcade57317a,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанельТаблицаПравилВыгрузкиУстановитьУзелОбмена",
 {1,"КоманднаяПанельТаблицаПравилВыгрузкиУстановитьУзелОбмена",
 {1,1,
@@ -1291,57 +1341,7 @@ QptePavmEeTv},0},0,0,0},
 {0,0,0}
 }
 },0},
-{6,515a6f9f-2bc8-4088-9acf-57c7896a8147,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанельТаблицаПравилВыгрузкиУстановитьПометки",
-{1,"КоманднаяПанельТаблицаПравилВыгрузкиУстановитьПометки",
-{1,1,
-{"ru","Установить пометки"}
-},
-{1,1,
-{"ru","Установить пометки"}
-},
-{1,1,
-{"ru","Установить пометки"}
-},
-{4,0,
-{0},"",-1,-1,1,0,""},
-{0,0,0}
-}
-},3,
-{1,1,
-{"ru","Установить пометки для правил"}
-},
-{4,1,
-{-10},"",-1,-1,1,0,""}
-},
-{6,597c9caa-3d4a-4030-a75c-11983addf529,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанельТаблицаПравилВыгрузкиСнятьПометки",
-{1,"КоманднаяПанельТаблицаПравилВыгрузкиСнятьПометки",
-{1,1,
-{"ru","Снять пометки"}
-},
-{1,1,
-{"ru","Снять пометки"}
-},
-{1,1,
-{"ru","Снять пометки"}
-},
-{4,0,
-{0},"",-1,-1,1,0,""},
-{0,0,0}
-}
-},3,
-{1,1,
-{"ru","Снять пометки для правил"}
-},
-{4,1,
-{-11},"",-1,-1,1,0,""}
-},
-{6,3278974c-9eaa-4c60-b411-72aa8a3ad1cf,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
-{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,01fc7769-47cc-48c2-a247-abffd7d2f37e,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
-{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,aa1f5449-1bdd-465b-81f8-c80a942ad0f0,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,cb7508c8-703a-4d32-b056-2fb79b3f7e6d,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанельТаблицаПравилВыгрузкиОчиститьОтбор",
 {1,"КоманднаяПанельТаблицаПравилВыгрузкиОчиститьОтбор",
 {1,1,
@@ -1366,11 +1366,11 @@ QptePavmEeTv},0},0,0,0},
 },
 {0,79,4}
 },2,
-{5,99085706-5a9f-48c2-a12d-1d0b82d12316,24,0,2,4e3f39ce-c3c7-436b-8ca5-902a8a00425b,
+{5,99085706-5a9f-48c2-a12d-1d0b82d12316,24,0,2,2c9a89b7-418b-4688-8f46-886ddee934b2,
 {8,"ОчиститьУзлыОбмена",0,2,
 {1,1,
 {"ru","Очистить узлы обмена"}
-},1,99085706-5a9f-48c2-a12d-1d0b82d12316,25,1e2,0,0,1,0,0,0,0},ac282c8b-e2ce-47a8-87cc-d5b4ea075797,
+},1,99085706-5a9f-48c2-a12d-1d0b82d12316,25,1e2,0,0,1,0,0,0,0},14522606-87f5-4860-aeed-efcade57317a,
 {8,"УстановитьУзелОбмена",0,2,
 {1,1,
 {"ru","Установить текущий узел обмена у всех"}
@@ -1379,23 +1379,23 @@ QptePavmEeTv},0},0,0,0},
 {0}
 }
 },
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,6,515a6f9f-2bc8-4088-9acf-57c7896a8147,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,6,c32b84d5-fb5d-4973-ab64-18f421658669,
 {8,"УстановитьПометки",0,1,
 {1,1,
 {"ru","Установить для правил"}
-},1,99085706-5a9f-48c2-a12d-1d0b82d12316,9,1e2,0,2,1,0,0,0,0},597c9caa-3d4a-4030-a75c-11983addf529,
+},1,99085706-5a9f-48c2-a12d-1d0b82d12316,9,1e2,0,2,1,0,0,0,0},10f7a78f-1d3e-4cd6-933a-fa4d2b9f11a3,
 {8,"СнятьПометки",0,1,
 {1,1,
 {"ru","Снять для правил"}
-},1,99085706-5a9f-48c2-a12d-1d0b82d12316,10,1e2,0,2,1,0,0,0,0},3278974c-9eaa-4c60-b411-72aa8a3ad1cf,
+},1,99085706-5a9f-48c2-a12d-1d0b82d12316,10,1e2,0,2,1,0,0,0,0},0f8d73f0-072e-4e67-93f6-9c02471c8c6d,
 {8,"Разделитель",0,1,
-{1,0},0,99085706-5a9f-48c2-a12d-1d0b82d12316,11,1e2,2,0,1,0,0,0,0},aa1f5449-1bdd-465b-81f8-c80a942ad0f0,
+{1,0},0,99085706-5a9f-48c2-a12d-1d0b82d12316,11,1e2,2,0,1,0,0,0,0},cb7508c8-703a-4d32-b056-2fb79b3f7e6d,
 {8,"ОчиститьОтбор",0,1,
 {1,1,
 {"ru","Очистить отборы"}
-},1,99085706-5a9f-48c2-a12d-1d0b82d12316,16,1e2,0,0,1,0,0,0,0},01fc7769-47cc-48c2-a247-abffd7d2f37e,
+},1,99085706-5a9f-48c2-a12d-1d0b82d12316,16,1e2,0,0,1,0,0,0,0},d3a3bcc2-3c51-4680-be4b-7122abbe522a,
 {8,"Разделитель1",0,1,
-{1,0},0,99085706-5a9f-48c2-a12d-1d0b82d12316,19,1e2,2,0,1,0,0,0,0},a14f9ad3-131d-45e0-bf4a-6117205a19d4,
+{1,0},0,99085706-5a9f-48c2-a12d-1d0b82d12316,19,1e2,2,0,1,0,0,0,0},4bbddd70-713f-4914-a533-bb7d43d80f50,
 {8,"УзлыОбмена",0,1,
 {1,1,
 {"ru","Узлы обмена"}
@@ -1441,7 +1441,7 @@ QptePavmEeTv},0},0,0,0},
 {"#",acf6192e-81ca-46ef-93a6-5a6968b78663}
 },
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -1466,8 +1466,8 @@ QptePavmEeTv},0},0,0,0},
 },
 {3,1,
 {-18},0,0,0},
-{1,0},0,0,100,2,0},
-{19,117644301,
+{1,0},0,0,100,2},
+{18,117644301,
 {3,4,
 {0}
 },
@@ -1536,11 +1536,11 @@ QptePavmEeTv},0},0,0,0},
 {"S"}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVA7DsIwDIUVqZfI7Eh20jbJLZAQByjQlQF1q3Iy
-Bo7EAVhI7LZACySRnPf8e/ZjveJzv976AMWmV9um69rLWTHYqVhsYv7KoxowIwtl
-Njh659iBTYEEhBjHDJuNNuZXzhJLhpsThl4MMUM+d0mXWQIUmLoLaVGwBMESlSJS
-7VWcrFIfQYkeopB9mvLLfiVJf7xThS8i3wTVzjlDFUwr4ulC4+rSnoym0AZdVq3R
-3gerjcfDMVComuCk/3wClBl4o0NFbkoiRiTEJw==},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVA7DsIwDIUVqZfw7Eh20jbJLZAQByjQlQF1q3Iy
+Bo7EzEYStwVaIInkvOffsx/rVT736633WGx62DZd117OkMEOQrEJ6SuPK6SEDJbJ
+0OidY4smBjIyURgzTDJK6185SywZdk5ofjGcGXapS7yZZSSBsTtyQEOCJASXqBSJ
+sIcwWYCPoEgPUZR9itNLfpCkP96pwheJb4Jqa62OC56my7P5xtalOWnFvvWqrFqt
+nPNGaUeHo2dfNd5K//kEJDPkfQ4Vc1MWMSIhPAE=},0},0,0,0},
 {-1},
 {-1},
 {-1}
@@ -1592,13 +1592,13 @@ Njh659iBTYEEhBjHDJuNNuZXzhJLhpsThl4MMUM+d0mXWQIUmLoLaVGwBMESlSJS
 {"N",15,0,0}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVI7TsQwEEWUK+0lTOuRZsb/FlEjJMQBEscpKdB2
-qxyJE1BwJK6Af+tFy4Izmuc3n8wneb+9qefr4/MY5H53FE/T4ZDeXkUld0Kyx9Ws
-mCBEP4EOMcK82gX0wsHGSG6yaqvB96Lhc8eHjo9CkpEocdvvqqUJWUmFKakLDO8l
-d1LlZJKEuOVLjVAFgPmvnN+8ZbhLA9PZUrsB8qVK6bZQkthort6MChvvmn4wNnXM
-XLu2KV76AgoKMcKwuXsUVh9QkeIXLekf73jDlTbPD1nnHOfFjyVxUWFyVquFgUIK
-oE1i8D4oyJ95joGCmYJr9S8nwDbD2Kk33jC6Of8YkwPNJt+UN5D8ulgXdSLtS1zZ
-CUvsB66o0zlNkgs06RsYA7cxt28=},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVJLTsQwDEUsR5pLhG0s2U7T1FvEGiEhDpCm7ZLF
+aHajHoWTsOBIXIE6yXRGZSCN7D7/n9uP+7t8vj+/TmL3u5N5icfjeHg3GTwYyx1O
+fsIRJHURGkkJ+qkdoBlY2pQoxNbNOfjRFP1a9VPVz8aSt2hx3u+ypdzFRoqcbVSt
+3i0O1i3JZAlxXl5yhFMFzH/l/MYlI2wNTBdLngao0y46rUKyWODS3dJsHRZUJV0h
+9pnk0jkPad4qfdXGrGFY3DUKsw9Ir/pNSfrHu1a4MeTloTaEwLriMz9WITG0jRsY
+SEaBxo8MXScOlo/cJyHxUULpv2WAhcO6UaJppJ49SEhefwYPsXcTdEmib70n5rGs
+FeuBG+J8tGotjFcUC7H5Bw==},0},0,0,0},
 {-1},
 {-1},
 {-1}
@@ -1645,7 +1645,7 @@ CUvsB66o0zlNkgs06RsYA7cxt28=},0},0,0,0},
 {"#",4652c4ec-1d1d-4af4-b835-e33fcb43af8c}
 },
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -1670,8 +1670,8 @@ CUvsB66o0zlNkgs06RsYA7cxt28=},0},0,0,0},
 },
 {3,1,
 {-18},0,0,0},
-{1,0},0,0,100,2,0},
-{19,117644301,
+{1,0},0,0,100,2},
+{18,117644301,
 {3,4,
 {0}
 },
@@ -1738,10 +1738,10 @@ CUvsB66o0zlNkgs06RsYA7cxt28=},0},0,0,0},
 {"S",10,1}
 },0,1,35af3d93-d7c7-4a2e-a8eb-bac87a1a3f26,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNdY5LDsMgDETbbaSsewlbsg0NcJ38LhH5ZF30SL1C
-jUlTqR+MNMzgJ83lfPLzuN03hr7b2uUB3AWIVUj7Tn/5BAHIVplI7eEboQqK/GO+
-fSPSZyD8TqghpnViDiwTFZRrWjGOUnCUTCg5znMuyzrx4iDDzljBqgrDEbM3b1+s
-Vopeo0e/Jw==},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNdU7bDcMwCGx/I+WzW4AE2KntdfJaImKyfnSkrlCM
+01TqA5COOzjpLueT1+N23xj6bmvDAzgLECuQ9p3+4gkCkL0ykdriH6ECivzzfPPm
+SJ+C8FuhZjGsHXNgmaigDGnFOErBUTKh5DjPuSzrxIsbGXaPBazr9RDZc7cDq0Wi
+V+uR7gk=},0},0,0,0},
 {-1},
 {0},
 {-1}
@@ -1789,11 +1789,11 @@ Vopeo0e/Jw==},0},0,0,0},
 {"S"}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVAxDsIwDIS1Uj+ROZHspG3iXyAhHlCgKwPqVuVl
-DDyJB7CQ2KWFVpBEcu58ztl5bje8Hrf7QLosBrVr+767XhSDvYplEfNVDjYaM3K6
-ygHe2SX22mlIUgSI6cIKl4Ox9lfNGkuFXxIWZ4a7MRiyS9rMogaByV1IB4JFpNeo
-kibVQcUpKvUlSvSoAs4ZzCfnlRT9yU4vrJrEDwdsvPcWaz19EU9HrW8qd7YGqSNT
-1Z01IZAzNsDxREh1S178lxOAzMA/Or44msLcQnwB},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVA7DsIwDIUVqZfI7Eh20jbxLZAQByjQlQF1q3Iy
+Bo7EzEYS9wOtILHkPPs5z/Zru8nneX/0DMWuV/um69rbVWVwUKHYhfQUowooIQtl
+cjhml9iBBYxUQgzxkRk2OW3Mr5o1lgq3DBiaI7kbTT6pxJujBCgwqgMFsChIKLBG
+pbSojipMXqkvUgwPLMw5TclSXknRn+z0w6pF+lCg2jln0oLH6fJs3Li6tBejiVvW
+ZdUa7T1bbTyezkxcNexEfzkBygx5n8OPgyjOLYQ3},0},0,0,0},
 {1},
 {-1},
 {-1}
@@ -1841,13 +1841,13 @@ kibVQcUpKvUlSvSoAs4ZzCfnlRT9yU4vrJrEDwdsvPcWaz19EU9HrW8qd7YGqSNT
 {"#",b1b064f3-ae38-49bf-8c6d-390c65fd94af}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVJLbsQgDK26HGkuQbdYwthAuEU3PQAksOyimt0I
-qffqokfqFcpnSjrTT2zFefazMXZe7+/68/H2fvbyeDiLx3A6pZdn0cGDkBGjspwJ
-QqIF2McMy2o3IK9Wa/LmOeRyPJTGH4pWYkMkuRn1Fb3FTpJUlYpKlfrRGdQMaP1X
-zk88MtytQ+Pu6d0ALu2UKt2LUg1YTx9OUgN/e++2CY8mxZMo0wpxRaruC0v1GGDT
-Fhcj6Z/orPBLk7ugdc5pNHKOqN8OMWSV0EOMGwJrtOAXn4CJVzbGhrzaSW5r5Vol
-UmTIHKiudVUQMJi622i8RVML9kHWXSaDOoQIGLmWTrmWJmcgKyQXk982j7P1cvUP
-teahL2LqhTWGNq9YPgE=},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVJLbgMhDK26jJRL0C2WMDYw3KKbHgBmYNlFlV1E
+LtZFj9QrlE9CmvQztsZj+9k84zk9PvTn8/3j6OV+dxTP4XBIb6+iO09CRozKciYI
+iRZgHzMsq92AvFqtyZvnkMt+Vxp+KBqJzSPJzahL9t53kqSqUFSq1I+OoGZA679q
+fvqjwt0HNF4jnQ3g0k6p0qMo1XDr6RKLJDW8b++rbcKDongRZVohbkA1fEapngNs
+2vJiFP2TnR1+oXgVtM453S74Ml2fDTFkldBDjBsCa7TgF5+AiVc2xoa82gluS+Xa
+JVJkyByoLnVVEDCYutlovEVTG/ZrtBKTQR1CBIxcW6dcW5MzkBWSi8lvm8dJvdz8
+QY08dKJTz6hxaXPE8gU=},0},0,0,0},
 {2},
 {-1},
 {-1}
@@ -1893,10 +1893,10 @@ teahL2LqhTWGNq9YPgE=},0},0,0,0},
 {1,0},
 {"Pattern"},0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVBBEsIgDNRrZ/qJnMNMAqXUX3jxAR68enB66/Ae
-H+HBJ/kFSaJYtQoMYTdZsnBer3TcLtdpg20zwXY/jofTEbIgW9wjCwrYSaDcNnkJ
-JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
-2NlzNQK8iQr9qCLNOZYleTDRn2y9YcHmzFKfUvIcsX4SPXczUmX5Dg==},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVCxEcIwDIQ2d1lCtXIn2TEOW9AwAAUtBZcup3GY
+goKRWAFLIiFAwNZZfklvvXxZr2zdr7dhi3U1wO7Q98fzCUSRGydkRRFbdSR1JUs4
+Y0QqpUwk5WIVUV0Twi/ON3ZG/gwEfkVMTcOddinboozksHRHFozkyEtwjkJK5lsX
+CXsf1jzAG6mEn1VkuYbVNA9O+pOdXlgQOZO0yTkH/eJxPhpPFzLR5AE=},0},0,0,0},
 {3},
 {-1},
 {-1}
@@ -1942,10 +1942,10 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,0},
 {"Pattern"},0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVBBEsIgDNRrZ/qJnMNMAqXUX3jxAR68enB66/Ae
-H+HBJ/kFSaJYtQoMYTdZsnBer3TcLtdpg20zwXY/jofTEbIgW9wjCwrYSaDcNnkJ
-JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
-2NlzNQK8iQr9qCLNOZYleTDRn2y9YcHmzFKfUvIcsX4SPXczUmX5Dg==},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVCxEcIwDIQ2d1lCtXIn2TEOW9AwAAUtBZcup3GY
+goKRWAFLIiFAwNZZfklvvXxZr2zdr7dhi3U1wO7Q98fzCUSRGydkRRFbdSR1JUs4
+Y0QqpUwk5WIVUV0Twi/ON3ZG/gwEfkVMTcOddinboozksHRHFozkyEtwjkJK5lsX
+CXsf1jzAG6mEn1VkuYbVNA9O+pOdXlgQOZO0yTkH/eJxPhpPFzLR5AE=},0},0,0,0},
 {4},
 {-1},
 {-1}
@@ -1991,10 +1991,10 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,0},
 {"Pattern"},0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVBBEsIgDNRrZ/qJnMNMAqXUX3jxAR68enB66/Ae
-H+HBJ/kFSaJYtQoMYTdZsnBer3TcLtdpg20zwXY/jofTEbIgW9wjCwrYSaDcNnkJ
-JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
-2NlzNQK8iQr9qCLNOZYleTDRn2y9YcHmzFKfUvIcsX4SPXczUmX5Dg==},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVCxEcIwDIQ2d1lCtXIn2TEOW9AwAAUtBZcup3GY
+goKRWAFLIiFAwNZZfklvvXxZr2zdr7dhi3U1wO7Q98fzCUSRGydkRRFbdSR1JUs4
+Y0QqpUwk5WIVUV0Twi/ON3ZG/gwEfkVMTcOddinboozksHRHFozkyEtwjkJK5lsX
+CXsf1jzAG6mEn1VkuYbVNA9O+pOdXlgQOZO0yTkH/eJxPhpPFzLR5AE=},0},0,0,0},
 {5},
 {-1},
 {-1}
@@ -2075,7 +2075,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {e69bf21d-97b2-4f37-86db-675aea9ec2cb,49,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2100,11 +2100,9 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},9,2,1,0,1,1,
+{1,0},0,0,100,0},9,2,1,0,1,1,
 {5,de2a3d38-7267-4a8f-b349-536b8a77e553,568,1,2,
-{6,7abac8e9-96a1-419a-bd54-031c64fdfd50,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
-{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,4ffe0abf-94d2-4c75-856e-4fa4fea4e351,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,d3bcae50-98be-4448-94da-9f782824e2d1,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанельПостроительОтборПоказатьРезультатаОтбора",
 {1,"КоманднаяПанельПостроительОтборПоказатьРезультатаОтбора",
 {1,1,
@@ -2127,10 +2125,12 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,1,
 {"ru","Показать результат отбора"}
 }
-},1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,2,7abac8e9-96a1-419a-bd54-031c64fdfd50,
+},
+{6,b8ebfdf4-3652-40c0-a28f-57572eb2e1ce,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},1,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,2,b8ebfdf4-3652-40c0-a28f-57572eb2e1ce,
 {8,"Разделитель",0,1,
-{1,0},0,de2a3d38-7267-4a8f-b349-536b8a77e553,89,1e2,2,0,1,0,0,0,0},4ffe0abf-94d2-4c75-856e-4fa4fea4e351,
+{1,0},0,de2a3d38-7267-4a8f-b349-536b8a77e553,89,1e2,2,0,1,0,0,0,0},d3bcae50-98be-4448-94da-9f782824e2d1,
 {8,"ПоказатьРезультатаОтбора",0,1,
 {1,1,
 {"ru","Показать результат отбора"}
@@ -2173,7 +2173,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {36e52348-5d60-4770-8e89-a16ed50a2006,90,
 {0,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2198,7 +2198,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},2,2,0}
+{1,0},0,0,100,0},2,2,0}
 },
 {8,279,30,284,269,1,
 {0,
@@ -2236,7 +2236,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,91,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2261,19 +2261,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Период выгрузки:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,6,106,25,1,
@@ -2313,7 +2313,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2340,7 +2340,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Начальная дата выгрузки документов и регистров сведений"}
-},0,0,100,0,0},30,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -2348,7 +2348,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},2,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -2392,7 +2392,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,93,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2417,19 +2417,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","по"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,243,6,261,25,1,
@@ -2469,7 +2469,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2496,7 +2496,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Конечная дата выгрузки документов и регистров сведений"}
-},0,0,100,0,0},30,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -2504,7 +2504,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},2,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -2548,7 +2548,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {6ff79819-710e-4145-97cd-1618da79e3e2,95,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2575,7 +2575,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Установить период выгрузки"}
-},0,0,100,0,0},14,
+},0,0,100,0},14,
 {1,1,
 {"ru","..."}
 },1,1,0,0,0,
@@ -2636,7 +2636,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {e69bf21d-97b2-4f37-86db-675aea9ec2cb,138,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2661,33 +2661,9 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},9,2,0,0,1,1,
+{1,0},0,0,100,0},9,2,0,0,1,1,
 {5,1624f65e-71b7-431b-9f39-6646105fce04,2,1,2,
-{6,129d42d2-0a72-43ae-b34f-8fac329c0d0e,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанельПараметрыВыгрузкиВосстановитьПараметры",
-{1,"КоманднаяПанельПараметрыВыгрузкиВосстановитьПараметры",
-{1,1,
-{"ru","Восстановить параметры"}
-},
-{1,1,
-{"ru","Восстановить параметры"}
-},
-{1,1,
-{"ru","Восстановить параметры"}
-},
-{4,0,
-{0},"",-1,-1,1,0,""},
-{0,0,0}
-}
-},6,
-{1,1,
-{"ru","Восстановить параметры"}
-},
-{1,1,
-{"ru","Восстановить параметры"}
-}
-},
-{6,35ceb087-6cb5-4f32-899b-8a312e239ad1,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,df1138c0-8cae-4544-83a0-34f6dfcc4dc8,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанельПараметрыВыгрузкиСохранитьПараметры",
 {1,"КоманднаяПанельПараметрыВыгрузкиСохранитьПараметры",
 {1,1,
@@ -2710,12 +2686,36 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,1,
 {"ru","Сохранить параметры"}
 }
+},
+{6,20fc0d80-11aa-4410-a05e-3a3835adb1c8,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанельПараметрыВыгрузкиВосстановитьПараметры",
+{1,"КоманднаяПанельПараметрыВыгрузкиВосстановитьПараметры",
+{1,1,
+{"ru","Восстановить параметры"}
+},
+{1,1,
+{"ru","Восстановить параметры"}
+},
+{1,1,
+{"ru","Восстановить параметры"}
+},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{0,0,0}
+}
+},6,
+{1,1,
+{"ru","Восстановить параметры"}
+},
+{1,1,
+{"ru","Восстановить параметры"}
+}
 },1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,2,129d42d2-0a72-43ae-b34f-8fac329c0d0e,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,2,20fc0d80-11aa-4410-a05e-3a3835adb1c8,
 {8,"ВосстановитьПараметры",0,1,
 {1,1,
 {"ru","Восстановить"}
-},1,1624f65e-71b7-431b-9f39-6646105fce04,2,1e2,0,0,1,0,0,0,0},35ceb087-6cb5-4f32-899b-8a312e239ad1,
+},1,1624f65e-71b7-431b-9f39-6646105fce04,2,1e2,0,0,1,0,0,0,0},df1138c0-8cae-4544-83a0-34f6dfcc4dc8,
 {8,"СохранитьПараметры",0,1,
 {1,1,
 {"ru","Сохранить"}
@@ -2759,7 +2759,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2786,7 +2786,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Использовать отбор по периоду для всех объектов, включая те, для которых заданы ограничения"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Отбор по периоду для всех объектов"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -2826,7 +2826,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,30,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2851,19 +2851,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Имя файла для загрузки:"}
 },1,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,6,142,25,1,
@@ -2901,7 +2901,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -2928,7 +2928,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Полное имя файла данных (из которого будет произведена загрузка)"}
-},0,0,100,0,0},30,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -2936,7 +2936,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},1,1,0,0,0,0,0,16777215,2}
+{1,0},1,1,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -3034,7 +3034,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,35,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3059,19 +3059,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Дата выгрузки данных:"}
 },0,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,359,156,374,1,
@@ -3106,7 +3106,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,36,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3133,19 +3133,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Дата выгрузки данных"}
-},0,0,100,0,0},11,
+},0,0,100,0},11,
 {1,1,
 {"ru","Надпись5"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,166,359,418,374,1,
@@ -3180,7 +3180,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,37,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3205,19 +3205,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Период выгрузки данных:"}
 },0,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,380,156,395,1,
@@ -3252,7 +3252,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,38,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3279,19 +3279,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Дата выгрузки данных"}
-},0,0,100,0,0},11,
+},0,0,100,0},11,
 {1,1,
 {"ru","ПредставлениеПериодаВыгрузки"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,166,380,418,395,1,
@@ -3326,7 +3326,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,40,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3351,19 +3351,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Версия правил обмена:"}
 },0,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,337,156,352,1,
@@ -3398,7 +3398,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,41,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3425,19 +3425,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Версия правил обмена"}
-},0,0,100,0,0},11,
+},0,0,100,0},11,
 {1,1,
 {"ru","Надпись6"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,166,337,418,352,1,
@@ -3473,7 +3473,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3500,7 +3500,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Использовать транзакции при загрузке объектов"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Использовать транзакции"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -3562,7 +3562,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3589,7 +3589,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Количество объектов в одной транзакции"}
-},0,0,100,0,0},30,0,0,0,0,0,0,0,0,0,1,0,0,10,0,1,4,0,
+},0,0,100,1},30,0,0,0,0,0,0,0,0,0,1,0,0,10,0,1,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -3597,7 +3597,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -3641,7 +3641,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,52,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3666,19 +3666,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Количество элементов в транзакции:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,29,77,296,96,1,
@@ -3714,7 +3714,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,59,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3739,19 +3739,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Имя файла, протокола обмена:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,259,233,278,1,
@@ -3791,7 +3791,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3818,7 +3818,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Имя файла для записи протокола обмена данными"}
-},0,0,100,0,0},30,0,0,1,0,0,1,0,0,1,1,0,0,255,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,0,1,0,0,1,1,0,0,255,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -3826,7 +3826,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -3907,7 +3907,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -3934,7 +3934,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Дописывать данные в протокол обмена или перед началом обмена очищать протокол"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Дописывать данные в протокол обмена"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -3974,7 +3974,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4001,7 +4001,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Выводить в протокол информационные сообщения"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Вывод в протокол информационных сообщений"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -4040,7 +4040,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {90db814a-c75f-4b54-bc96-df62e554d67d,64,
 {0,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4065,7 +4065,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},8,
+{1,0},0,0,100,0},8,
 {1,1,
 {"ru","Протокол обмена"}
 },
@@ -4105,7 +4105,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4130,7 +4130,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},6,
+{1,0},0,0,100,0},6,
 {1,1,
 {"ru","Вывод информационных сообщений в окно сообщений"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -4170,7 +4170,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4197,7 +4197,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Режим отладки загрузки данных"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Режим отладки"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -4255,7 +4255,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {90db814a-c75f-4b54-bc96-df62e554d67d,68,
 {0,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4280,7 +4280,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},8,
+{1,0},0,0,100,0},8,
 {1,1,
 {"ru","Настройки выгрузки данных"}
 },
@@ -4320,7 +4320,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4345,7 +4345,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},6,
+{1,0},0,0,100,0},6,
 {1,1,
 {"ru","Использовать транзакции при выгрузке для планов обмена"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -4384,7 +4384,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,70,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4409,19 +4409,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Количество элементов в транзакции:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,25,142,342,161,1,
@@ -4461,7 +4461,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4488,7 +4488,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Количество элементов в транзакции для планов обмена. Если 0 - то все элементы будут получены в одной транзакции"}
-},0,0,100,0,0},30,0,0,0,0,0,0,0,0,0,1,0,0,10,0,1,4,0,
+},0,0,100,1},30,0,0,0,0,0,0,0,0,0,1,0,0,10,0,1,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -4496,7 +4496,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -4540,7 +4540,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,72,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4565,19 +4565,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Количество обработанных объектов для обновления статуса:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,53,343,72,1,
@@ -4617,7 +4617,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4644,7 +4644,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Количество загруженных/выгруженных объектов для обновления статуса"}
-},0,0,100,0,0},30,0,0,0,0,0,0,0,0,0,1,0,0,10,0,1,4,0,
+},0,0,100,1},30,0,0,0,0,0,0,0,0,0,1,0,0,10,0,1,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -4652,7 +4652,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -4716,7 +4716,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4743,7 +4743,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Выгружать объекты на которые есть права доступа"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Выгружать объекты на которые есть права доступа"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -4782,7 +4782,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,88,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4807,19 +4807,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Изменения регистрации для узлов обмена после выгрузки:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,215,345,234,1,
@@ -4855,7 +4855,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {64483e7f-3833-48e2-8c75-2c31aac49f6e,89,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4882,7 +4882,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Изменения в регистрации объектов после выгрузки"}
-},0,0,100,0,0},30,0,0,1,0,1,0,0,0,0,1,0,0,255,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,1,0,0,0,0,1,0,0,255,0,0,4,0,
 {"U"},
 {"U"},"",0,1,1,1,
 {9,
@@ -4919,7 +4919,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2},
+{1,0},0,0,0,0,0,0,0,16777215,1},
 {0}
 },
 {8,352,215,610,234,1,
@@ -4955,7 +4955,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -4980,7 +4980,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},6,
+{1,0},0,0,100,0},6,
 {1,1,
 {"ru","Автоматически удалять недопустимые символы из строк для записи в XML"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -5023,7 +5023,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5050,10 +5050,10 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Выгрузка данных в файл обмена"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Выгрузка в файл обмена"}
-},1,0,1,0,100,1},4,0,0,0,0},0,
+},1,0,1,0,100,1},3,0,0,0},0,
 {"B",0},
 {1,
 {2147483647,e1692cc2-605b-4535-84dd-28440238746c,
@@ -5111,7 +5111,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {"Pattern"},
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5138,10 +5138,10 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Выгрузка данных непосредственно в информационну базу приемника"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Подключение и выгрузка данных в ИБ приемник"}
-},1,0,1,0,100,1},4,0,0,0,0},0,
+},1,0,1,0,100,1},3,0,0,0},0,
 {"B",1},
 {0}
 },
@@ -5178,7 +5178,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {09ccdc77-ea1a-4a6d-ab1c-3435eada2433,105,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5203,7 +5203,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},26,0,0,2,
+{1,0},0,0,100,0},25,0,0,2,
 {0,107,3},
 {0,119,3},8,
 {0,6,3},
@@ -5214,25 +5214,25 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0,121,3},
 {0,122,2},
 {0,122,3},0,0,
-{8,1,
+{7,1,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},0,1,
+{0},"",-1,-1,1,0,""},100,0,0},0,1,
 {1,2,
 {4,
 {1,1,
 {"ru","Выгрузка в файл"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"ВыгрузкаВФайл",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"ВыгрузкаВФайл",1,
 {3,4,
 {0}
 },
@@ -5244,13 +5244,13 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,1,
 {"ru","Выгрузка в ИБ приемник"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"ВыгрузкаВИБПриемник",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"ВыгрузкаВИБПриемник",1,
 {3,4,
 {0}
 },
@@ -5269,7 +5269,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {2,92,0,1,4,1,0,0,0},0,4294967295,4294967295,5,64,0,
 {3,4,
 {0}
-},0,0,57,0,0},
+},0,0,57,0},
 {0}
 },
 {8,6,54,610,146,1,
@@ -5303,7 +5303,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,5,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5328,19 +5328,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Имя файла данных:"}
 },0,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,0,1,100,20,1,
@@ -5380,7 +5380,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5407,7 +5407,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Полное имя файла данных (в который будут выгружены данные)"}
-},0,0,100,0,0},30,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,
+},0,0,100,1},30,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -5415,7 +5415,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},1,1,0,0,0,0,0,16777215,2}
+{1,0},1,1,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -5514,7 +5514,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5541,7 +5541,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Сжимать исходящий файл обмена данными"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Сжимать исходящий файл обмена данными"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -5599,7 +5599,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,106,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5624,19 +5624,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Тип информационной базы:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,0,0,167,19,1,
@@ -5672,7 +5672,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {64483e7f-3833-48e2-8c75-2c31aac49f6e,107,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5699,7 +5699,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Тип информационной базы для загрузки данных"}
-},0,0,100,0,0},30,0,0,1,0,1,0,0,0,0,1,0,0,255,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,1,0,0,0,0,1,0,0,255,0,0,4,0,
 {"U"},
 {"U"},"",0,1,1,1,
 {9,
@@ -5731,7 +5731,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2},
+{1,0},0,0,0,0,0,0,0,16777215,1},
 {1,
 {2147483647,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"ТипИнформационнойБазыДляПодключенияПриИзменении",
@@ -5787,7 +5787,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,108,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5812,19 +5812,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Платформа:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,381,0,447,19,1,
@@ -5860,7 +5860,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {64483e7f-3833-48e2-8c75-2c31aac49f6e,109,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -5887,7 +5887,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Платформа информационной базы для загрузки данных"}
-},0,0,100,0,0},30,0,0,1,0,1,0,0,0,0,1,0,0,255,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,1,0,0,0,0,1,0,0,255,0,0,4,0,
 {"U"},
 {"U"},"",0,1,1,1,
 {9,
@@ -5924,7 +5924,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2},
+{1,0},0,0,0,0,0,0,0,16777215,1},
 {1,
 {2147483647,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"ВерсияПлатформыИнформационнойБазыДляПодключенияПриИзменении",
@@ -5978,7 +5978,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {09ccdc77-ea1a-4a6d-ab1c-3435eada2433,110,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6003,30 +6003,30 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},26,0,0,1,
+{1,0},0,0,100,0},25,0,0,1,
 {0,114,3},3,
 {0,112,3},
 {0,114,3},
 {0,116,3},0,0,
-{8,1,
+{7,1,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},0,1,
+{0},"",-1,-1,1,0,""},100,0,0},0,1,
 {1,2,
 {4,
 {1,1,
 {"ru","Подключение файловая ИБ"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"ПодключениеФайловаяИБ",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"ПодключениеФайловаяИБ",1,
 {3,4,
 {0}
 },
@@ -6038,13 +6038,13 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,1,
 {"ru","Подключение серверная ИБ"}
 },
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,2,0,0},-1,1,1,"ПодключениеСервернаяИБ",1,
+{0},"",-1,-1,1,0,""},100,2,0},-1,1,1,"ПодключениеСервернаяИБ",1,
 {3,4,
 {0}
 },
@@ -6063,7 +6063,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {2,19,0,1,4,1,0,0,0},0,4294967295,4294967295,5,64,0,
 {3,4,
 {0}
-},0,0,57,0,0},
+},0,0,57,0},
 {0}
 },
 {8,0,25,604,44,1,
@@ -6102,7 +6102,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,111,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6127,20 +6127,20 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Каталог информационной базы:
 "}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,0,0,167,19,1,
@@ -6180,7 +6180,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6207,7 +6207,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Каталог, в котором располагается информационная база-приемник данных"}
-},0,0,100,0,0},30,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -6215,7 +6215,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},1,1,0,0,0,0,0,16777215,2}
+{1,0},1,1,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -6295,7 +6295,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,113,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6320,19 +6320,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Имя сервера 1С:Предприятия:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,0,0,167,19,1,
@@ -6372,7 +6372,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6399,7 +6399,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Имя сервера информационной базы для подключения"}
-},0,0,100,0,0},30,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -6407,7 +6407,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},1,1,0,0,0,0,0,16777215,2}
+{1,0},1,1,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -6452,7 +6452,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,115,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6477,19 +6477,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Информационная база:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,325,0,448,19,1,
@@ -6529,7 +6529,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6556,7 +6556,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Имя информационной базы для подключения"}
-},0,0,100,0,0},30,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -6564,7 +6564,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},1,1,0,0,0,0,0,16777215,2}
+{1,0},1,1,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -6610,7 +6610,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6637,7 +6637,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Использовать Windows-аутентификацию для подключения к информационной базе-приемнику"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Аутентификация Windows"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -6695,7 +6695,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,118,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6720,19 +6720,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Пользователь:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,0,73,155,92,1,
@@ -6772,7 +6772,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6799,7 +6799,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Пользователь для подключения к информационной базе-приемнику"}
-},0,0,100,0,0},30,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -6807,7 +6807,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -6852,7 +6852,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,120,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6877,19 +6877,19 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Пароль:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,383,73,445,92,1,
@@ -6929,7 +6929,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -6956,7 +6956,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {-18},0,0,0},
 {1,1,
 {"ru","Пароль для подключения к информационной базе - приемнику"}
-},0,0,100,0,0},30,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,4,0,
+},0,0,100,1},30,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -6964,7 +6964,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -7007,7 +7007,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {6ff79819-710e-4145-97cd-1618da79e3e2,122,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7034,7 +7034,7 @@ JwxIpZSJcjloRZDgvP+l+camSJ+E5xejbhwP0qVMZRnJYOluZCDDVoRz5GPU2JlN
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Тестирование подключения к информационной базе-приемнику"}
-},0,0,100,0,0},14,
+},0,0,100,0},14,
 {1,1,
 {"ru","Тест подключения..."}
 },1,1,0,0,0,
@@ -7128,7 +7128,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7155,7 +7155,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {-18},0,0,0},
 {1,1,
 {"ru","Пароль для сжатия исходящих файлов обмена"}
-},0,0,100,0,0},30,0,0,1,1,0,0,0,0,0,1,0,0,50,0,0,4,0,
+},0,0,100,1},30,0,0,1,1,0,0,0,0,0,1,0,0,50,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -7163,7 +7163,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -7206,7 +7206,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,145,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7231,19 +7231,19 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Пароль сжатия:"}
 },0,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,12,48,99,67,1,
@@ -7281,7 +7281,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,123,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7306,19 +7306,19 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Протокол загрузки (для COM - соединения):"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,283,233,302,1,
@@ -7358,7 +7358,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7385,7 +7385,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {-18},0,0,0},
 {1,1,
 {"ru","Имя файла для записи протокола обмена данными при загрузке данных (в режиме COM соединения)"}
-},0,0,100,0,0},30,0,0,1,0,0,1,0,0,1,1,0,0,255,0,0,4,0,
+},0,0,100,1},30,0,0,1,0,0,1,0,0,1,1,0,0,255,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -7393,7 +7393,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -7474,7 +7474,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7501,7 +7501,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Автоматически открывать файлы протоколов обмена после выполнения операций"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Открывать файлы протоколов обмена после выполнения операций"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -7541,7 +7541,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7566,7 +7566,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},6,
+{1,0},0,0,100,0},6,
 {1,1,
 {"ru","Загружать данные в режиме обмена (ОбменДанными.Загрузка = Истина)"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -7606,7 +7606,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7633,7 +7633,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Анализировать перед загрузкой изменился объект или нет. Если объект изменился, то перезаписывать его."}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Записывать только измененные объекты"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -7673,7 +7673,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7700,7 +7700,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Записывать регистры наборами записей (если флажок не взведен, то запись выполняется менеджером записи)"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Записывать регистры наборами записей"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -7740,7 +7740,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7765,7 +7765,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},6,
+{1,0},0,0,100,0},6,
 {1,1,
 {"ru","Использовать оптимизированный формат для обмена данными (V8 - V8, версия обработки не ниже 2.0.18)"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -7805,7 +7805,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7832,7 +7832,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Использовать режим оптимизированной записи объектов при загрузке данных"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Оптимизированная запись объектов"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -7872,7 +7872,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7899,7 +7899,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","При загрузке строк обрезать незначащие символы справа"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","При загрузке строк обрезать незначащие символы справа"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -7938,7 +7938,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,132,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -7964,19 +7964,19 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","ВНИМАНИЕ!!! Функционал для удаления данных предназначен для отладки переноса. Использовать удаление объектов в других целях НЕ рекомендуется!"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,6,610,48,1,
@@ -8014,7 +8014,7 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {"#",acf6192e-81ca-46ef-93a6-5a6968b78663}
 },
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8039,8 +8039,8 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 },
 {3,1,
 {-18},0,0,0},
-{1,0},0,0,100,2,0},
-{19,117644301,
+{1,0},0,0,100,2},
+{18,117644301,
 {3,4,
 {0}
 },
@@ -8109,11 +8109,11 @@ kOTm5ubm5OViYuOQkJDmkJCQ5Obm5uXm5ubm5pDm5uaQkJDk5ubl5ubm5ubm5ubm
 {"S"}
 },0,1,381ed624-9217-4e63-85db-c4c3cb87daae,
 {
-{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVAxDsIwDIS1Uj/hOZHspG2SXyAhHlCgKwPqVuVl
-DDyJB7CQ2KVACySRnDuf43Pu6xWv2+U6BFUWA2zavu/OJ2CwhVgWMV/lUKMoI6uq
-HPCZnWOnrMIkJcSYLqywOWhjftUssVS4OWHoxbAbTT53SZtZUigwdRfSomARqSWq
-xCTsIE4R4EOU6FGFnNOUT86DFP3JTi98MflmqHHOGarV9EU8XWhdU9mj0RS6oKu6
-M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
+{#base64:AgFTS2/0iI3BTqDV67a9oKcNfVAxDsIwDIQVqZ/I7Eh20jbJL5AQDyjQlQF1q/Iy
+Bp7EzEZitwVaILHknH2Oz36sV3zu11sfoNj0att0XXs5KwY7FYtNzE8xqoAyslBm
+h2N2jh1YwEQlxJgezLDZaWN+1SyxVLh5wNArwmo0+dwlXY4SoMDUHSiCRUFCgSUq
+RaLaqzh5pT5IKTywkHOasuW8kqI/2emHLxLfBNXOOZMXPE7Hs4XG1aU9GU2hDbqs
+WqO9D1Ybj4djoFA1wUn/+QQoM/A+hx+5KYkYkRCf},0},0,0,0},
 {-1},
 {-1},
 {-1}
@@ -8157,7 +8157,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {e69bf21d-97b2-4f37-86db-675aea9ec2cb,134,
 {2,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8182,9 +8182,9 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},9,2,0,0,1,1,
+{1,0},0,0,100,0},9,2,0,0,1,1,
 {5,e48dab16-a9d4-44d3-812f-474b3fd3ed50,4,1,4,
-{6,ca3ccd2d-a2d4-43d1-8c1e-6a198d357eb0,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,608aedc8-4f7d-4327-a03f-2aefdcaddca5,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанель1Действие",
 {1,"КоманднаяПанель1Действие",
 {1,1,
@@ -8210,35 +8210,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {4,1,
 {-10},"",-1,-1,1,0,""}
 },
-{6,2cff2ac1-039e-475d-8c03-b17824f2afc6,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанель1Действие1",
-{1,"КоманднаяПанель1Действие1",
-{1,1,
-{"ru","Действие1"}
-},
-{1,1,
-{"ru","Действие1"}
-},
-{1,1,
-{"ru","Действие1"}
-},
-{4,0,
-{0},"",-1,-1,1,0,""},
-{0,0,0}
-}
-},7,
-{1,1,
-{"ru","Отменить все"}
-},
-{1,1,
-{"ru","Отменить все"}
-},
-{4,1,
-{-11},"",-1,-1,1,0,""}
-},
-{6,4ada4b24-5f37-4a9c-b29d-a484e2f0c98c,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
-{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,44858b3f-6980-4638-b539-97f8a5624455,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,ec60688a-c71d-40f9-b82e-3d66f2f036e0,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"УдалитьНажатие",
 {1,"УдалитьНажатие",
 {1,1,
@@ -8263,18 +8235,46 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 },
 {4,1,
 {-2},"",-1,-1,1,0,""}
+},
+{6,ef5a8de1-3869-42b0-8889-cc5861635832,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
+{6,006979d7-7d4c-42fa-a0ca-c2bc853d564c,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанель1Действие1",
+{1,"КоманднаяПанель1Действие1",
+{1,1,
+{"ru","Действие1"}
+},
+{1,1,
+{"ru","Действие1"}
+},
+{1,1,
+{"ru","Действие1"}
+},
+{4,0,
+{0},"",-1,-1,1,0,""},
+{0,0,0}
+}
+},7,
+{1,1,
+{"ru","Отменить все"}
+},
+{1,1,
+{"ru","Отменить все"}
+},
+{4,1,
+{-11},"",-1,-1,1,0,""}
 },1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,4,ca3ccd2d-a2d4-43d1-8c1e-6a198d357eb0,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,4,608aedc8-4f7d-4327-a03f-2aefdcaddca5,
 {8,"Действие",0,1,
 {1,1,
 {"ru","ОтметитьВсе"}
-},1,e48dab16-a9d4-44d3-812f-474b3fd3ed50,1,1e2,0,2,1,0,0,0,0},2cff2ac1-039e-475d-8c03-b17824f2afc6,
+},1,e48dab16-a9d4-44d3-812f-474b3fd3ed50,1,1e2,0,2,1,0,0,0,0},006979d7-7d4c-42fa-a0ca-c2bc853d564c,
 {8,"Действие1",0,1,
 {1,1,
 {"ru","ОтменитьВсе"}
-},1,e48dab16-a9d4-44d3-812f-474b3fd3ed50,2,1e2,0,0,1,0,0,0,0},4ada4b24-5f37-4a9c-b29d-a484e2f0c98c,
+},1,e48dab16-a9d4-44d3-812f-474b3fd3ed50,2,1e2,0,0,1,0,0,0,0},ef5a8de1-3869-42b0-8889-cc5861635832,
 {8,"Разделитель",0,1,
-{1,0},0,e48dab16-a9d4-44d3-812f-474b3fd3ed50,3,1e2,2,0,1,0,0,0,0},44858b3f-6980-4638-b539-97f8a5624455,
+{1,0},0,e48dab16-a9d4-44d3-812f-474b3fd3ed50,3,1e2,2,0,1,0,0,0,0},ec60688a-c71d-40f9-b82e-3d66f2f036e0,
 {8,"Удалить",0,1,
 {1,1,
 {"ru","Удалить"}
@@ -8318,7 +8318,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8345,7 +8345,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Удалять объекты на которые есть права доступа"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Удалять объекты на которые есть права доступа"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -8384,7 +8384,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {6ff79819-710e-4145-97cd-1618da79e3e2,136,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8411,7 +8411,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Получить информацию о файле обмена"}
-},0,0,100,0,0},14,
+},0,0,100,0},14,
 {1,1,
 {"ru","Подробно о файле обмена"}
 },1,1,0,0,0,
@@ -8471,7 +8471,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {90db814a-c75f-4b54-bc96-df62e554d67d,137,
 {0,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8496,7 +8496,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},8,
+{1,0},0,0,100,0},8,
 {1,1,
 {"ru","Информация о файле обмена"}
 },
@@ -8534,7 +8534,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,139,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8559,19 +8559,19 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Комментарий:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,400,156,415,1,
@@ -8610,7 +8610,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8635,7 +8635,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 },
 {3,1,
 {-18},0,0,0},
-{1,0},0,0,100,0,0},30,0,2,1,0,0,0,0,0,0,1,1,1,0,0,0,4,0,
+{1,0},0,0,100,1},30,0,2,1,0,0,0,0,0,0,1,1,1,0,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,1,0,
 {4,0,
@@ -8643,7 +8643,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -8687,7 +8687,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {6ff79819-710e-4145-97cd-1618da79e3e2,141,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8714,7 +8714,7 @@ M9r7YLXxuD8ECnUbnPSfT4AyA//o+CI3JTEjFuID},0},0,0,0},
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Перечитать правила обмена"}
-},0,0,100,0,0},14,
+},0,0,100,0},14,
 {1,0},1,1,0,0,0,
 {4,3,
 {0,e2dbf7b4-1f84-42b6-99aa-f92bc0c268f2},"",14,1,1,
@@ -8794,7 +8794,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8821,7 +8821,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Объекты, которые были выгружены по ссылке, загружать без пометки на удаление"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Объекты, выгруженные по ссылке, загружать без пометки удаления"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -8864,7 +8864,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8891,7 +8891,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {-18},0,0,0},
 {1,1,
 {"ru","Пароль для распаковки входящего файла обмена"}
-},0,0,100,0,0},30,0,0,1,1,0,0,0,0,0,1,0,0,50,0,0,4,0,
+},0,0,100,1},30,0,0,1,1,0,0,0,0,0,1,0,0,50,0,0,4,0,
 {"U"},
 {"U"},"",0,1,0,0,0,0,
 {4,0,
@@ -8899,7 +8899,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {4,0,
 {0},"",-1,-1,1,0,""},0,0,0,
 {0,0,0},
-{1,0},0,0,0,0,0,0,0,16777215,2}
+{1,0},0,0,0,0,0,0,0,16777215,1}
 },
 {1,
 {9a7643d2-19e9-45e2-8893-280bc9195a97,
@@ -8942,7 +8942,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,147,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -8967,19 +8967,19 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Пароль распаковки:"}
 },0,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,30,142,49,1,
@@ -9015,7 +9015,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0fc7e20d-f241-460c-bdf4-5ad88e5474a5,149,
 {3,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9040,19 +9040,19 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},11,
+{1,0},0,0,100,0},11,
 {1,1,
 {"ru","Настройки автоматической загрузки данных:"}
 },4,1,0,0,0,
 {0,0,0},0,
 {1,0},1,
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},4,0,0,0,0,0,0,0},
+{0},"",-1,-1,1,0,""},100,0,0},4,0,0,0,0,0,0,0},
 {0}
 },
 {8,6,240,243,256,1,
@@ -9091,7 +9091,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 },
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9118,10 +9118,10 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Не использовать автоматическую загрузку данных при открытии обработки"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Не использовать автоматическую загрузку при открытии"}
-},1,0,1,0,100,1},4,0,0,0,0},0,
+},1,0,1,0,100,1},3,0,0,0},0,
 {"N",0},
 {0}
 },
@@ -9159,7 +9159,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {"Pattern"},
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9186,10 +9186,10 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Использовать автоматическую загрузку данных при открытии обработки, но только после подтверждения выполнения операции пользователем"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Перед автоматической загрузкой задать вопрос о выполнении операции"}
-},1,0,1,0,100,1},4,0,0,0,0},0,
+},1,0,1,0,100,1},3,0,0,0},0,
 {"N",1},
 {0}
 },
@@ -9227,7 +9227,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {"Pattern"},
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9254,10 +9254,10 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Использовать автоматическую загрузку данных при открытии обработки"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Использовать автоматическую загрузку данных"}
-},1,0,1,0,100,1},4,0,0,0,0},0,
+},1,0,1,0,100,1},3,0,0,0},0,
 {"N",2},
 {0}
 },
@@ -9294,7 +9294,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9321,7 +9321,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Режим отладки обработчиков"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Режим отладки обработчиков выгрузки"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -9379,7 +9379,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {6ff79819-710e-4145-97cd-1618da79e3e2,174,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9404,7 +9404,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},14,
+{1,0},0,0,100,0},14,
 {1,1,
 {"ru","Настройка отладки выгрузки..."}
 },1,1,0,0,0,
@@ -9465,7 +9465,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {6ff79819-710e-4145-97cd-1618da79e3e2,175,
 {1,
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9490,7 +9490,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 },
 {3,0,
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
-{1,0},0,0,100,0,0},14,
+{1,0},0,0,100,0},14,
 {1,1,
 {"ru","Настройка отладки загрузки..."}
 },1,1,0,0,0,
@@ -9552,7 +9552,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {1,
 {
 {
-{16,1,
+{15,1,
 {3,4,
 {0}
 },
@@ -9579,7 +9579,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 {0},0,0,0,48312c09-257f-4b29-b280-284dd89efc1e},
 {1,1,
 {"ru","Режим отладки обработчиков"}
-},0,0,100,0,0},6,
+},0,0,100,0},6,
 {1,1,
 {"ru","Режим отладки обработчиков загрузки"}
 },1,0,1,0,100,1},4,0,0,0,0,0},
@@ -9637,7 +9637,7 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 }
 }
 }
-},632,534,1,0,1,4,4,1151,632,534,96},
+},632,534,1,0,1,4,4,1154,632,534,96},
 {
 {0},58,
 {4,
@@ -10222,10 +10222,10 @@ oNjk6Njk6Njk6Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Pj8+Njk
 },1,4,1,0,0,0,
 {0},
 {0},
-{8,0,
+{7,0,
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
 {0},"",-1,-1,1,0,""},
 {4,0,
-{0},"",-1,-1,1,0,""},100,0,0,0},1,2,0,0,1,1}
+{0},"",-1,-1,1,0,""},100,0,0},1,2,0,0,1,1}
